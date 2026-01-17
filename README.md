@@ -35,8 +35,8 @@ A Discord bot that monitors Instagram accounts for ban and unban status changes.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/7ttp/ig-monitor.git
-   cd ig-monitor
+   git clone https://github.com/otterai/IG-monitoring.git
+   cd IG-monitoring
    ```
 
 2. **Install dependencies**
@@ -304,4 +304,4 @@ This bot is for educational purposes only. Please respect Instagram's Terms of S
 
 ---
 
-Made by Vaibhav(7ttp)
+Made by Ben 10(otterai)
