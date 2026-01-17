@@ -100,6 +100,10 @@ Required Discord Gateway Intents:
 
 ## Workflow
 
+<details>
+<summary><h3>
+- <b> Workflow </b>
+</h3></summary>
 ### Ban Watch Workflow
 
 ```mermaid
@@ -209,7 +213,7 @@ sequenceDiagram
         Bot->>Discord: Send error embed
     end
 ```
-
+</details>
 ## Project Structure
 
 ```
